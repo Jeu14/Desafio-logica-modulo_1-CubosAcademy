@@ -1,4 +1,4 @@
 # Desafio logica modulo 1
 
-### Instrucoes
+### Explicacao
 14 desafios envolvendo logica de programação, elaborados pela Cubos Academy, realizados no HackerHank!
